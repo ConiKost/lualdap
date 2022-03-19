@@ -3,6 +3,8 @@
 ** See Copyright Notice in license.md
 */
 
+#define _GNU_SOURCE
+
 #include <string.h>
 
 #ifdef WIN32
